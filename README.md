@@ -1,2 +1,2 @@
-# blogg
-membuat blog github
+# Q.A.A
+Qorri Aquina Adisty
